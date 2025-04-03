@@ -1,6 +1,6 @@
 # FilmVault
 
-##Description:
+## Description:
 
 A full-stack web application that allows users to explore, search, and track movies 
 in a personalized watchlist. Built with JavaScript, Node.js, Express.js, and SQLite3. 
